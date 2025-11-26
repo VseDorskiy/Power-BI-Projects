@@ -1,5 +1,5 @@
 
-- Analytical review of Birkenstock’s financial performance (2024–2025) with a peer comparison vs. ON Holding.
+- Analytical review of Birkenstock’s financial performance (2024–2025) with a peer comparison vs. ON Holding (Birkenstock KPI Highlights).
 
 - Data sourced via public APIs (financial reports, share prices, FX rates).
 
